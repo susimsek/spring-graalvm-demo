@@ -36,9 +36,9 @@ Use these credentials to log in to the application.
 
 Once the application is running, you can access the H2 database console at [http://localhost:8080/h2-console](http://localhost:8080/h2-console). Use the following credentials to log in:
 
-- **JDBC URL**: `jdbc:h2:mem:testdb`
-- **Username**: `sa`
-- **Password**: `password`
+- **JDBC URL**: jdbc:h2:mem:testdb
+- **Username**: sa
+- **Password**: password
 
 This console allows you to view and manage the in-memory database tables and data.
 
